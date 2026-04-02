@@ -19,6 +19,6 @@
     > BTech in CSAI, <a href="https://plaksha.edu.in/"> Plaskha Univeristy</a> '25 (CGPA: 8.74) <br/><br/>
     > links: 
     <a href="https://www.linkedin.com/in/aryaman-khandelwal/">Linkedin</a> |
-    <a href=""mailto:aryaman13jan@gmail.com"">Mail</a>
+    <a href="mailto:aryaman13jan@gmail.com">Mail</a>
   </samp>
 </p>
