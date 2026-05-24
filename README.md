@@ -20,6 +20,6 @@
     > links: 
     <a href="https://www.linkedin.com/in/aryaman-khandelwal/">Linkedin</a> |
     <a href="mailto:aryaman13jan@gmail.com">Mail</a> | 
-    <a href="https://medium.com/@aryaman13jan">Medium</a>
+    <a href="https://substack.com/@aryamankhandelwal1">Substack</a>
   </samp>
 </p>
